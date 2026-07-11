@@ -1,0 +1,4 @@
+services:
+   wrong-service:
+      build: .
+      container_name: wrong-container
