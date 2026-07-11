@@ -1,4 +1,4 @@
 services:
-   cae-valid-create-test:
+   cae-rename-target-test:
       build: .
-      container_name: cae-valid-create-test
+      container_name: cae-rename-target-test
