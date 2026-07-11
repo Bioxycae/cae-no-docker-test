@@ -1,5 +1,4 @@
 services:
-   cae-rollback-target-test:
+   cae-rename-target-test:
       build: .
-      container_name: cae-rollback-target-test
-      command: ["node", "file-yang-tidak-ada.js"]
+      container_name: cae-rename-target-test
