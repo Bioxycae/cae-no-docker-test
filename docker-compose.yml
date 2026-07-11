@@ -1,4 +1,4 @@
 services:
-   cae-rename-success-api-test:
+   wrong-deploy-name:
       build: .
-      container_name: cae-rename-success-api-test
+      container_name: wrong-deploy-name
