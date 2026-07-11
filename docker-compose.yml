@@ -1,4 +1,4 @@
 services:
-   wrong-service:
+   cae-valid-create-test:
       build: .
-      container_name: wrong-container
+      container_name: cae-valid-create-test
