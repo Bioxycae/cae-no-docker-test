@@ -1,4 +1,4 @@
 services:
-   cae-rename-success-api-test:
-      build: .
-      container_name: cae-rename-success-api-test
+  cae-rename-success-api-test:
+    build: .
+    container_name: cae-rename-success-api-test
